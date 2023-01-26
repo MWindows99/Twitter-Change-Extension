@@ -1,6 +1,5 @@
 import random
 import tweepy
-import sys
 # Twitter API Keys
 API_KEY = ""
 API_SECRET = ""
